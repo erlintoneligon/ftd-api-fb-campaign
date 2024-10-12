@@ -1,0 +1,13 @@
+# Ignorar archivos de sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignorar entornos virtuales
+.venv/
+.env/
+
+# Ignorar dependencias y otros archivos temporales
+node_modules/
+*.log
+*.tmp
